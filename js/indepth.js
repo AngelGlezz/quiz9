@@ -13,7 +13,7 @@ var final_time = 0;
 var aciertos = 0;
 
 
-var maxTime = 300;
+var maxTime = 30;
 var time = maxTime;
 var time_out=0;
 
