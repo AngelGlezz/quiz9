@@ -1,0 +1,424 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Quién marcó el único gol de Chivas en el último Clásico?",
+      "respuestas": [
+        {
+          "respuesta": "Orbelín Pineda",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Carlos Peña",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Omar Bravo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Javier Eduardo López",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántos clásicos ha ganado Matías Almeyda al frente de Chivas?",
+      "respuestas": [
+        {
+          "respuesta": "0",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "2",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "3",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuándo fue la última vez que América y Chivas chocaron en Liguilla?",
+      "respuestas": [
+        {
+          "respuesta": "Clausura 2013",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Apertura 2015",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Clausura 2016",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Verano 2002",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién fue el portero titular del América en el último Clásico?",
+      "respuestas": [
+        {
+          "respuesta": "Hugo González",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Moisés Muñoz",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Adolfo Ríos",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Luis Pineda",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién es el máximo goleador del América en Clásicos?",
+      "respuestas": [
+        {
+          "respuesta": "Carlos Reinoso",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Cuauhtémoc Blanco",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Zague",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Omam-Biyik",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuándo se jugó el primer Clásico en el Estadio Chivas?",
+      "respuestas": [
+        {
+          "respuesta": "Apertura 2012",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Apertura 2010",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Clausura 2010",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Clausura 2011",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántos triunfos en el torneo de Liga suma Guadalajara en el Clásico?",
+      "respuestas": [
+        {
+          "respuesta": "53",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "58",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "60",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "81",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién es el máximo goleador de Chivas en Clásicos?",
+      "respuestas": [
+        {
+          "respuesta": "Salvador Reyes",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Omar Bravo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Guillermo Sepúlveda",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Alberto Medina",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién marcó el segundo gol del América en el último Clásico?",
+      "respuestas": [
+        {
+          "respuesta": "Darío Benedetto",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Darwin Quintero",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Oribe Peralta",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Paolo Goltz",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En dónde se jugó el último Clásico?",
+      "respuestas": [
+        {
+          "respuesta": "Soldier Field",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "John F. Kennedy Stadium",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Estadio Chivas",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Estadio Azteca",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué jugador falló un penalti decisivo en el Clásico de la última liguilla?",
+      "respuestas": [
+        {
+          "respuesta": "Carlos Peña",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Marco Fabián",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Omar Bravo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Javier Eduardo López",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "Entrenador holandés que dirigió a Chivas y América",
+      "respuestas": [
+        {
+          "respuesta": "Hans Westerhoff",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Leo Beenhakker",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Louis van Gaal",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Alexander van Halen",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuándo se dio la victoria más reciente de Guadalajara en el Clásico?",
+      "respuestas": [
+        {
+          "respuesta": "Clausura 2016",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Apertura 2015",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Liguilla Clausura 2016",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Apertura 2014",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "Jugador en activo con más goles en el Clásico",
+      "respuestas": [
+        {
+          "respuesta": "Omar Bravo",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Raúl Jiménez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ángel Reyna",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Francisco Javier Rodríguez",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "Portero titular del Guadalajara en el último Clásico",
+      "respuestas": [
+        {
+          "respuesta": "Antonio Rodríguez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Javier Ledesma",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Rodolfo Cota",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Miguel Jiménez Ponce",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién marcó un doblete en la goleada de América a Chivas por 4-0 en el Clausura 2014?",
+      "respuestas": [
+        {
+          "respuesta": "Luis Gabriel Rey",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Raúl Jiménez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Luis Ángel Mendoza",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Miguel Layún",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién era el entrenador del América en la goleada de 4-0 a Chivas en el Clausura 2014?",
+      "respuestas": [
+        {
+          "respuesta": "Miguel Herrera",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Antonio Mohamed",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Ignacio Ambriz",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Carlos Reinoso",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "Jugador emblemático de Chivas que pasó al América en 1999",
+      "respuestas": [
+        {
+          "respuesta": "Benjamín Galindo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Demetrio Madero",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Luis García",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ramón Ramírez",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién protagonizó el último traspaso entre Chivas y América?",
+      "respuestas": [
+        {
+          "respuesta": "Alberto Jorge García",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Carlos Salcedo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Manuel Pérez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Jesús Mendoza",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué directivo del futbol mexicano vistió las camisetas de Chivas y América como jugador?",
+      "respuestas": [
+        {
+          "respuesta": "Guillermo Cantú",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ricardo Peláez",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Eduardo de la Torre",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Alejandro Irarragorri",
+          "tipo": "false"
+        }
+      ]
+    }
+  ]
+}
